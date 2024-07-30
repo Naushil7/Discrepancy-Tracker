@@ -90,4 +90,4 @@ streamlit run app.py
 
 ---
 
-Feel free to contribute to this project by submitting issues or pull requests. For major changes, please open an issue first to discuss what you would like to change.
+For major changes and suggestions, please open an issue to discuss what you would like to change.
