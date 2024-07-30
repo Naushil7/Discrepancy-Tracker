@@ -21,19 +21,6 @@ The CSV Data Merge Tool is a Streamlit web application designed to merge two CSV
 - Python 3.7 or higher
 - Streamlit
 
-### Install Streamlit
-
-```bash
-pip install streamlit
-```
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-repo/csv-data-merge-tool.git
-cd csv-data-merge-tool
-```
-
 ## Usage
 
 ### Run the App
